@@ -1,5 +1,3 @@
-# avaliação1_consumoAPI
-
 # Tradutor de Idiomas Fictícios
 
 Este projeto é um tradutor de idiomas fictícios, que utiliza APIs para traduzir frases em inglês para os estilos de Yoda, Pirata e Minion.
